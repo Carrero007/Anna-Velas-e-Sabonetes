@@ -658,9 +658,7 @@ a {
     color: #ffffff; }
 
 textarea {
-  pointer-events: none;
-  background-color: #f0f0f0;
-  color: #999;
+    resize: none;
 }
 
 
